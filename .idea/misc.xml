@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/drawable/button_login.xml" value="0.1" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/drawable/home_bg.xml" value="0.1" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/layout/activity_add_new_food_plan.xml" value="0.1" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/layout/activity_bmicalculator.xml" value="0.1" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/layout/selectedpage.xml" value="0.11302083333333333" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/healthify/app/src/main/res/drawable-anydpi/ic_action_name.xml" value="0.2265" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/healthify/app/src/main/res/drawable/ic_baseline_age.xml" value="0.2265" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/healthify/app/src/main/res/font/alex_brush.xml" value="0.1" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/healthify/app/src/main/res/font/allerta.xml" value="0.284375" />
+        <entry key="..\:/RSD/Y3S1/Mobile Application Development/healthify/app/src/main/res/font/mitr.xml" value="0.284375" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthify/app/src/main/res/layout/firstpage.xml" value="0.1" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthify/app/src/main/res/layout/foodplandetails.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthify/app/src/main/res/layout/foodplanmain.xml" value="0.5" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthify/app/src/main/res/layout/fragment_add2.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthify/app/src/main/res/layout/fragment_list2.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/healthify/app/src/main/res/layout/login.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

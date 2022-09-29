@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="Healthify">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Healthify">
+        <activity
+            android:name="com.example.healthify.AddNewFoodPlan"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.SelectedPage"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.SelectedPlanDetails"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.healthify.DeletePage"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.healthify.DeletePageDetails"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.healthify.FoodDetailsActivity"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.healthify.FoodPlanSelectnigList"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.healthify.Timers"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.Reminder"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.BMICalculator"
+            android:exported="false" />
+        <activity
+            android:name=".Setpassword"
+            android:exported="false" />
+        <activity
+            android:name=".Setage"
+            android:exported="false" />
+        <activity
+            android:name=".Setcontact"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.Usersetting"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.Home"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.Login"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.Signup"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.WorkoutDetails"
+            android:exported="false" />
+        <activity
+            android:name="com.example.healthify.WorkoutMain"
+            android:exported="false"
+            android:launchMode="singleInstance"
+            tools:ignore="DuplicateActivity" />
+        <activity
+            android:name="com.example.healthify.WorkoutMainAct2"
+            android:exported="false" />
+        <receiver android:name="com.example.healthify.Notification"
+            android:enabled="true"/>
+        <service android:name="com.example.healthify.TimerFunc"/>
+        <activity
+            android:name="com.example.healthify.FirstPage"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
